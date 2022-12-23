@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ajaysinghrathour17
-- 👀 I’m interested in blockchain and app devlopment.
-- 🌱 I’m currently learning Java and JavaScript.
+- 👀 I’m interested in web and app devlopment.
+- 🌱 I’m currently learning  JavaScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
