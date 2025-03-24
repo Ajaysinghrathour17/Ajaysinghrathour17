@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Ajaysinghrathour17
-- 👀 I’m interested in web and app devlopment.
-- 🌱 I’m currently learning  JavaScript & React JS
-- 📫 ajayrathour1703@gmail.com
-- LeetCode - https://leetcode.com/ajay_singh17/
-<!---
-Ajaysinghrathour17/Ajaysinghrathour17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I'm Ajay Singh Rathour  
+
+- 🚀 Passionate about **Web & App Development**  
+- 💻 Experienced in **JavaScript, React.js, Node.js, Express,js**  
+- 📱 Building innovative and scalable applications  
+- 🎯 Solving coding challenges on **LeetCode** – [Check out my profile](https://leetcode.com/ajay_singh17/)  
+- 📩 Reach me at **ajayrathour1703@gmail.com**  
+
+Let's connect and build something amazing! 🚀  
